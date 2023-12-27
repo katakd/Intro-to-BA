@@ -6,4 +6,6 @@ Intro to BA major on-class mini project
 
 Download PowerBI in: [https://powerbi.microsoft.com/en-us/downloads/ ]()
 
-Open the
+Open the `BA_project.pbix` to view our visualize
+
+The slide and report are in the folder `presentation`
